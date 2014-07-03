@@ -1,0 +1,19 @@
+{
+    "username": "linesh.mali@events.com", 
+    "environment": "developer", 
+    "project_name": "Events", 
+    "workspace": "/Users/lineshmali/Documents/MavensmateProjects", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "R6RGDIZ69XFISM78J468E0A98J7SGT78", 
+    "metadata_container": "1dc200000008p0OAAQ", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
