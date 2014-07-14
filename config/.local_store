@@ -1,4 +1,17 @@
 {
+    "Angular.resource": {
+        "createdById": "00520000003bWyeAAE", 
+        "createdByName": "Linesh Mali", 
+        "createdDate": "2014-07-03 15:28:31", 
+        "fileName": "unpackaged/staticresources/Angular.resource", 
+        "fullName": "Angular", 
+        "id": "0812000000095hJAAQ", 
+        "lastModifiedById": "00520000003bWyeAAE", 
+        "lastModifiedByName": "Linesh Mali", 
+        "lastModifiedDate": "2014-07-03 15:53:30", 
+        "mmState": "clean", 
+        "type": "StaticResource"
+    }, 
     "AnswersHome.page": {
         "createdById": "00520000003a9XYAAY", 
         "createdByName": "Tanmay Karkare", 
@@ -463,7 +476,7 @@
         "id": "06620000000mBATAA2", 
         "lastModifiedById": "00520000003a9XYAAY", 
         "lastModifiedByName": "Tanmay Karkare", 
-        "lastModifiedDate": "2014-04-30 19:51:19", 
+        "lastModifiedDate": "2014-07-02 22:32:15", 
         "mmState": "clean", 
         "type": "ApexPage"
     }
